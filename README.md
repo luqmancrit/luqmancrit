@@ -3,6 +3,7 @@
 👋Hey! I'm an Electrical Engineering (Electronics) diploma graduate at **UiTM Pasir Gudang, Johor** who enjoys coding and learn new things. 
 
 Found myself love to code when I'm 17, and started to get interested and keep exposing myself to data analytics and software development eversince.
+
 I'm also open to learn something new and to grow myself.
 
 ## What I'm focusing on
