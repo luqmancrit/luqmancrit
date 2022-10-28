@@ -1,4 +1,4 @@
-## Hi, Luqman Hakim👨‍💻
+## Hi, I'm Luqman Hakim👨‍💻
 
 👋Hey! I'm an Electrical Engineering (Electronics) diploma graduate at **UiTM Pasir Gudang, Johor** who enjoys coding and learn new things. 
 
