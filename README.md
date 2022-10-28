@@ -8,7 +8,7 @@ I'm also open to expand myself to learn something new.
 
 ## What I'm focusing on💡
 I'm currently improving my programming skills—<br/>
-Data Analytics: Python, R, MySQL, Microsoft Excel and Power BI<br/>
+Data Analytics: Python, MySQL, Microsoft Excel and Power BI<br/>
 Software Development: JavaScript, HTML, CSS, Google Firebase
 
 ## How to reach me🙋‍♂️
