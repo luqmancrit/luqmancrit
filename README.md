@@ -2,7 +2,7 @@
 
 👋Hey! I'm an Electrical Engineering (Electronics) diploma graduate at **UiTM Pasir Gudang, Johor** who enjoys coding and learn new things. 
 
-I started to love coding when I was 18 (2020). Right now I'm interested in data analytics and machine learning. I'm also open to expand myself to learn something new.
+I started to love coding when I was 18 (2020). Right now I'm interested in Data Analytics and Machine Learning. I'm also open to expand myself to learn something new.
 
 ## What I'm focusing on💡
 I'm currently improving my programming skills—<br/>
