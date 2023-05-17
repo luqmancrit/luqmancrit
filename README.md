@@ -6,7 +6,7 @@ I started to love coding when I was 18 (2020). Right now I'm interested in Data 
 
 ## What I'm focusing on💡
 I'm currently improving my programming skills—<br/>
-Data Analytics: Python, MySQL, Microsoft Excel and Power BI<br/>
+Data Analytics: Python, Scikit, Tensorflow, MySQL, Microsoft Excel and Power BI<br/>
 Software Development: JavaScript, HTML, CSS, Google Firebase
 
 ## How to reach me🙋‍♂️
